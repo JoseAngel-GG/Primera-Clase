@@ -3,12 +3,14 @@ using namespace std;
 
 int main(){
 
-    cout << "hola mundo";
+    //23072007
+    int b;
+    cout << "Introduce una fecha"<< endl;
+    cin >> b;
 
-    cout << "lo puse de nuevo";
+    cout << "este es el dia " << b%10000;
 
 
-    return 0;
 
 
 
