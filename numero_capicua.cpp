@@ -9,6 +9,8 @@ int main(){
     cout << "Introduce un numero para saber si es capicua o no" << endl;
     cin >> num;
 
+    long long oricha=num;
+
     int signo=1;
 
     if(num<0){
@@ -25,7 +27,7 @@ int main(){
         num/=10;
     } 
     
-    if(inv==num){
+    if(inv==oricha){
 
         cout << "es capicua";
         

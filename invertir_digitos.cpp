@@ -12,7 +12,7 @@ int main(){
     int signo=1;
 
     if(num<0){
-
+                                                                                               
         signo=-1;
         num*=signo;
 
