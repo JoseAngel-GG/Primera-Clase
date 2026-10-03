@@ -35,13 +35,13 @@ int main(){
 
         cout << "no es capicua";
     }
+
+
+
+
+
+
+
     
-
-
-
-    
-
-    
-
 
 }
